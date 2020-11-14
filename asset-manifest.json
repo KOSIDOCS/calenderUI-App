@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/calenderUI-App/static/js/main.0c5362c1.chunk.js",
+    "main.js.map": "/calenderUI-App/static/js/main.0c5362c1.chunk.js.map",
+    "runtime-main.js": "/calenderUI-App/static/js/runtime-main.abe1b3d9.js",
+    "runtime-main.js.map": "/calenderUI-App/static/js/runtime-main.abe1b3d9.js.map",
+    "static/js/2.4fe411ac.chunk.js": "/calenderUI-App/static/js/2.4fe411ac.chunk.js",
+    "static/js/2.4fe411ac.chunk.js.map": "/calenderUI-App/static/js/2.4fe411ac.chunk.js.map",
+    "index.html": "/calenderUI-App/index.html",
+    "precache-manifest.038d38a3eac2c44d825399d7b8538abb.js": "/calenderUI-App/precache-manifest.038d38a3eac2c44d825399d7b8538abb.js",
+    "service-worker.js": "/calenderUI-App/service-worker.js",
+    "static/js/2.4fe411ac.chunk.js.LICENSE.txt": "/calenderUI-App/static/js/2.4fe411ac.chunk.js.LICENSE.txt",
+    "static/media/Woman.jpeg": "/calenderUI-App/static/media/Woman.50f52521.jpeg",
+    "static/media/bikerace.jpeg": "/calenderUI-App/static/media/bikerace.45d9bc10.jpeg",
+    "static/media/car-on-stadium.jpeg": "/calenderUI-App/static/media/car-on-stadium.1afd6993.jpeg",
+    "static/media/cartrack.jpeg": "/calenderUI-App/static/media/cartrack.ac6bc967.jpeg",
+    "static/media/yellow-honda.jpeg": "/calenderUI-App/static/media/yellow-honda.266b8a00.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe1b3d9.js",
+    "static/js/2.4fe411ac.chunk.js",
+    "static/js/main.0c5362c1.chunk.js"
+  ]
+}
