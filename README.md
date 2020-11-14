@@ -2,11 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Calendar UI: Made with React material-ui
 
-![Calendar display](calendar-ui-big-screen)
+![Calendar display](calendar-ui-big-screen.gif)
 
 # This is the hosted link.
 
-[Checkout the Homepage](https://kosidocs.github.io/calenderUI-App/).
+[Checkout the Calendar site here](https://kosidocs.github.io/calenderUI-App/).
 
 ## Available Scripts
 
