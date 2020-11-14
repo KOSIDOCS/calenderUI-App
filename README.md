@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Calendar UI: Made with React material-ui
+
+![Calendar display](calendar-ui-big-screen)
+
+# This is the hosted link.
+
+[Checkout the Homepage](https://kosidocs.github.io/calenderUI-App/).
+
 ## Available Scripts
 
 In the project directory, you can run:
